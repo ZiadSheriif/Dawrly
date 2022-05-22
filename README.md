@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/ZeyadTarekk/Dawrly" rel="noopener">
+<a href="https://github.com/ZiadSheriif/Dawrly" rel="noopener">
 
 <img  src="screenshots/Banner.svg"  width="100%"></a>
 
@@ -134,4 +134,4 @@ Run main function in RunGUI class
 
 ## License <a name = "license"></a>
 
-> This software is licensed under MIT License, See [License](https://github.com/ZeyadTarekk/Dawrly/blob/main/LICENSE) for more information ©ZeyadTarekk.
+> This software is licensed under MIT License, See [License](https://github.com/ZiadSheriif/Dawrly/blob/main/LICENSE) for more information ©ZiadSheriif.
