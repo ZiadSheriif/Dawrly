@@ -1,18 +1,18 @@
 <div align="center">
 <a href="https://github.com/ZiadSheriif/Dawrly" rel="noopener">
 
-<img  src="screenshots/Banner.svg"  width="100%"></a>
+<img  src="screenshots/Banner2.png"  width="100%"></a>
 
 </div>
 
 <div align="center">
 
-[![GitHub contributors](https://img.shields.io/github/contributors/ZeyadTarekk/Dawrly)](https://github.com/ZeyadTarekk/Dawrly/contributors)
-[![GitHub issues](https://img.shields.io/github/issues/ZeyadTarekk/Dawrly)](https://github.com/ZeyadTarekk/Dawrly/issues)
-[![GitHub license](https://img.shields.io/github/license/ZeyadTarekk/Dawrly)](https://github.com/ZeyadTarekk/Dawrly/blob/master/LICENSE)
-[![GitHub forks](https://img.shields.io/github/forks/ZeyadTarekk/Dawrly)](https://github.com/ZeyadTarekk/Dawrly/network)
-[![GitHub stars](https://img.shields.io/github/stars/ZeyadTarekk/Dawrly)](https://github.com/ZeyadTarekk/Dawrly/stargazers)
-[![GitHub Language](https://img.shields.io/github/languages/top/ZeyadTarekk/Dawrly)](https://img.shields.io/github/languages/count/ZeyadTarekk/Dawrly)
+[![GitHub contributors](https://img.shields.io/github/contributors/ZiadSheriif/Dawrly)](https://github.com/ZiadSheriif/Dawrly/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/ZiadSheriif/Dawrly)](https://github.com/ZiadSheriif/Dawrly/issues)
+[![GitHub license](https://img.shields.io/github/license/ZiadSheriif/Dawrly)](https://github.com/ZiadSheriif/Dawrly/blob/master/LICENSE)
+[![GitHub forks](https://img.shields.io/github/forks/ZiadSheriif/Dawrly)](https://github.com/ZiadSheriif/Dawrly/network)
+[![GitHub stars](https://img.shields.io/github/stars/ZiadSheriif/Dawrly)](https://github.com/ZiadSheriif/Dawrly/stargazers)
+[![GitHub Language](https://img.shields.io/github/languages/top/ZiadSheriif/Dawrly)](https://img.shields.io/github/languages/count/ZiadSheriif/Dawrly)
 
 </div>
 
@@ -53,7 +53,7 @@
 1. **_Clone the repository_**
 
 ```sh
-$ git clone https://github.com/ZeyadTarekk/Dawrly.git
+$ git clone https://github.com/ZiadSheriif/Dawrly.git
 ```
 
 2. **_Right click on the folder and open it with the IDE_**
@@ -104,7 +104,7 @@ Run main function in RunGUI class
 <table>
   <tr>
     <td align="center">
-    <a href="https://github.com/ZeyadTarekk" target="_black">
+    <a href="https://github.com/ZiadSheriif" target="_black">
     <img src="https://avatars.githubusercontent.com/u/76125650?v=4" width="150px;" alt="Zeyad Tarek"/>
     <br />
     <sub><b>Zeyad Tarek</b></sub></a>
@@ -116,19 +116,19 @@ Run main function in RunGUI class
     <sub><b>Abdelrahman Mohamed</b></sub></a>
     </td>
     <td align="center">
-    <a href="https://github.com/BeshoyMorad" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/82404564?v=4" width="150px;" alt="Beshoy Morad"/>
-    <br />
-    <sub><b>Beshoy Morad</b></sub></a>
-    </td>
-    <td align="center">
     <a href="https://github.com/ZiadSheriif" target="_black">
     <img src="https://avatars.githubusercontent.com/u/78238570?v=4" width="150px;" alt="Ziad Sherif"/>
     <br />
     <sub><b>Ziad Sherif</b></sub></a>
     </td>
-    
-    
+    <td align="center">
+    <a href="https://github.com/BeshoyMorad" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/82404564?v=4" width="150px;" alt="Beshoy Morad"/>
+    <br />
+    <sub><b>Beshoy Morad</b></sub></a>
+    </td>
+
+
   </tr>
  </table>
 
