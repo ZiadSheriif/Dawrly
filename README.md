@@ -12,7 +12,7 @@
 [![GitHub license](https://img.shields.io/github/license/ZiadSheriif/Dawrly)](https://github.com/ZiadSheriif/Dawrly/blob/master/LICENSE)
 [![GitHub forks](https://img.shields.io/github/forks/ZiadSheriif/Dawrly)](https://github.com/ZiadSheriif/Dawrly/network)
 [![GitHub stars](https://img.shields.io/github/stars/ZiadSheriif/Dawrly)](https://github.com/ZiadSheriif/Dawrly/stargazers)
-[![GitHub Language](https://img.shields.io/github/languages/top/ZiadSheriif/Dawrly)](https://img.shields.io/github/languages/count/ZiadSheriif/Dawrly)
+<!-- [![GitHub Language](https://img.shields.io/github/languages/top/ZiadSheriif/Dawrly)](https://img.shields.io/github/languages/count/ZiadSheriif/Dawrly) -->
 
 </div>
 
