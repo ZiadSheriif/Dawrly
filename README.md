@@ -6,6 +6,12 @@
 </div>
 
 <div align="center">
+ 
+[![GitHub contributors](https://img.shields.io/github/contributors/ZiadSheriif/Dawrly)](https://github.com/ZiadSheriif/Dawrly/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/ZiadSheriif/Dawrly)](https://github.com/ZiadSheriif/Dawrly/issues)
+[![GitHub license](https://img.shields.io/github/license/ZiadSheriif/Dawrly)](https://github.com/ZiadSheriif/Dawrly/blob/master/LICENSE)
+[![GitHub forks](https://img.shields.io/github/forks/ZiadSheriif/Dawrly)](https://github.com/ZiadSheriif/Dawrly/network)
+[![GitHub stars](https://img.shields.io/github/stars/ZiadSheriif/Dawrly)](https://github.com/ZiadSheriif/Dawrly/stargazers)
 <!-- [![GitHub Language](https://img.shields.io/github/languages/top/ZiadSheriif/Dawrly)](https://img.shields.io/github/languages/count/ZiadSheriif/Dawrly) -->
 
 </div>
